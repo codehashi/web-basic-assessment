@@ -4,7 +4,7 @@ This small set of exercises is intended to test some basic habilities as a softw
 
 ## Exercise 1
  
-Create a fork of this repository in Github. You should answer the questions below directly in this text file and commit the answers in the forked repository.
+Clone this repository in your development machine. You should answer the questions below directly in this text file and commit the answers to your local copy of the repository.
 
 ## Exercise 2
 
@@ -34,4 +34,4 @@ Create a single HTML file, including the necessary CSS inside the <style> tags, 
 
 ## Exercise 5
 
-Commit your solution at the repository you forked on Exercise 1 and make a pull request to the original repository of this test.
+Create a private repository and push this exercise to it. Tip: add a new remote repository to your local git copy. Keep the repository private and grant access only to codehashi@codehashi.com. 
