@@ -1,6 +1,6 @@
 # Technical assessment
 
-This small set of exercises is intended to test some basic habilities as a software developer.
+This small set of exercises is intended to test some basic abilities as a software developer.
 
 ## Exercise 1
  
